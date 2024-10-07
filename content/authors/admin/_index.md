@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Weijie Chen
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Weijie
+last_name: Chen
 
 # Status emoji
 status:
@@ -20,47 +20,43 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Machine Learning Research Assistant
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: University of Wisconsin-Madison
+    url: https://mimrtl.radiology.wisc.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:wchen376@wisc.edu'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/WeijieChen2017
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/winstonchen2017/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=K_IGI5AAAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0002-1608-0899
 
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Medical Images
+  - Reliable AI
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD of Electrical and Computer Engineering
+    institution: University of Wisconsin-Madison
+    date_start: 2018
+    date_end: 2025
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+      I am a PhD candidate in Electrical and Computer Engineering, specializing in AI and machine learning for healthcare applications. My research focuses on developing scalable AI solutions for medical imaging tasks such as image segmentation, synthetic CT generation, and uncertainty estimation. I work with advanced techniques like computer vision, natural language processing, and multimodal data analysis, leveraging deep learning frameworks like PyTorch, TensorFlow, and MONAI. I'm passionate about applying cutting-edge technologies like large language models and self-supervised learning to drive innovation in public health and clinical settings.
+    # button:
+    #   text: 'Read Thesis'
+    #   url: 'https://example.com'
   - area: MEng Artificial Intelligence
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
